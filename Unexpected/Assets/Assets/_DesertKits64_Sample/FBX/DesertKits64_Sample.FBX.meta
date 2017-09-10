@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 48dc4c6cddf48a943bf7251f1ba06c05
+timeCreated: 1490522074
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Block_Cube
+    100002: Boulder_Medium
+    100004: ColumnSquare_Medium
+    100006: ColumnSquare_Small1
+    100008: Desert_Column_Single
+    100010: Desert_Column_TopRuined
+    100012: Desert_Obelisk_Stand
+    100014: Desert_Pyramid_Medium
+    100016: Desert_Pyramid_Small
+    100018: Desert_Ram_Altar
+    100020: Desert_SandPlateMedium
+    100022: Desert_Slab
+    100024: Desert_Temple_End
+    100026: Desert_Temple_Entrance
+    100028: Desert_Temple_SegmentSingle
+    100030: //RootNode
+    100032: Path_End
+    100034: Path_Post
+    100036: Path_Segment
+    100038: Pyramid_Thin_Base
+    100040: Pyramid_Thin_Tip
+    100042: PyramidStepsUpperHalf
+    100044: Ram_Sharp
+    100046: StoneGroup_Medium
+    100048: StoneGroup_Small
+    400000: Block_Cube
+    400002: Boulder_Medium
+    400004: ColumnSquare_Medium
+    400006: ColumnSquare_Small1
+    400008: Desert_Column_Single
+    400010: Desert_Column_TopRuined
+    400012: Desert_Obelisk_Stand
+    400014: Desert_Pyramid_Medium
+    400016: Desert_Pyramid_Small
+    400018: Desert_Ram_Altar
+    400020: Desert_SandPlateMedium
+    400022: Desert_Slab
+    400024: Desert_Temple_End
+    400026: Desert_Temple_Entrance
+    400028: Desert_Temple_SegmentSingle
+    400030: //RootNode
+    400032: Path_End
+    400034: Path_Post
+    400036: Path_Segment
+    400038: Pyramid_Thin_Base
+    400040: Pyramid_Thin_Tip
+    400042: PyramidStepsUpperHalf
+    400044: Ram_Sharp
+    400046: StoneGroup_Medium
+    400048: StoneGroup_Small
+    2300000: Block_Cube
+    2300002: Boulder_Medium
+    2300004: ColumnSquare_Medium
+    2300006: ColumnSquare_Small1
+    2300008: Desert_Column_Single
+    2300010: Desert_Column_TopRuined
+    2300012: Desert_Obelisk_Stand
+    2300014: Desert_Pyramid_Medium
+    2300016: Desert_Pyramid_Small
+    2300018: Desert_Ram_Altar
+    2300020: Desert_SandPlateMedium
+    2300022: Desert_Slab
+    2300024: Desert_Temple_End
+    2300026: Desert_Temple_Entrance
+    2300028: Desert_Temple_SegmentSingle
+    2300030: Path_End
+    2300032: Path_Post
+    2300034: Path_Segment
+    2300036: Pyramid_Thin_Base
+    2300038: Pyramid_Thin_Tip
+    2300040: PyramidStepsUpperHalf
+    2300042: Ram_Sharp
+    2300044: StoneGroup_Medium
+    2300046: StoneGroup_Small
+    3300000: Block_Cube
+    3300002: Boulder_Medium
+    3300004: ColumnSquare_Medium
+    3300006: ColumnSquare_Small1
+    3300008: Desert_Column_Single
+    3300010: Desert_Column_TopRuined
+    3300012: Desert_Obelisk_Stand
+    3300014: Desert_Pyramid_Medium
+    3300016: Desert_Pyramid_Small
+    3300018: Desert_Ram_Altar
+    3300020: Desert_SandPlateMedium
+    3300022: Desert_Slab
+    3300024: Desert_Temple_End
+    3300026: Desert_Temple_Entrance
+    3300028: Desert_Temple_SegmentSingle
+    3300030: Path_End
+    3300032: Path_Post
+    3300034: Path_Segment
+    3300036: Pyramid_Thin_Base
+    3300038: Pyramid_Thin_Tip
+    3300040: PyramidStepsUpperHalf
+    3300042: Ram_Sharp
+    3300044: StoneGroup_Medium
+    3300046: StoneGroup_Small
+    4300000: Desert_Column_Single
+    4300002: Desert_Column_TopRuined
+    4300004: Block_Cube
+    4300006: Desert_Ram_Altar
+    4300008: Boulder_Medium
+    4300010: Desert_Slab
+    4300012: Desert_Pyramid_Medium
+    4300014: Desert_Pyramid_Small
+    4300016: Pyramid_Thin_Base
+    4300018: Pyramid_Thin_Tip
+    4300020: Ram_Sharp
+    4300022: Desert_Obelisk_Stand
+    4300024: Desert_Temple_End
+    4300026: Desert_Temple_Entrance
+    4300028: Desert_Temple_SegmentSingle
+    4300030: Path_Segment
+    4300032: Path_End
+    4300034: ColumnSquare_Small1
+    4300036: ColumnSquare_Medium
+    4300038: Path_Post
+    4300040: Desert_SandPlateMedium
+    4300042: StoneGroup_Medium
+    4300044: StoneGroup_Small
+    4300046: PyramidStepsUpperHalf
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
