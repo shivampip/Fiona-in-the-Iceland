@@ -15,9 +15,23 @@ Fiona in the Iceland
 <!-- edit this image location -->
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.tree.rh.fiona)
 
+[<img src="images/Download_on_the_Windows_Store_Badge.png" width="15%"></img>](http://risinghopeapps.weebly.com/windows.html)
+
 #### Works on
 * Android 4.0.3 (Ice Cream Sandwich) and above
 * Windows
+
+### Instruction 
+
+#### For Android
+ Project is already configured for Android.
+
+#### For Windows
+1. Download zip file or clone repo.
+2. Replace this file with this.
+3. Open project in Unity
+4. Go to File>Built Setting>[Select Windows]>Switch player
+6. Done
 
 ### Permissions
 * Does not require any special permission
