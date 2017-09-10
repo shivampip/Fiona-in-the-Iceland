@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/_Scane/Menu.unity
+    guid: 0a9c7303810049e46b532d44dc6a104e
+  - enabled: 1
+    path: Assets/Game/_Scane/IntroBro.unity
+    guid: d8630d9c730dc1e4ab04dff68dead86a
+  - enabled: 1
+    path: Assets/Game/_Scane/demo.unity
+    guid: d72af1efcf9007942b5d07489a5e02c6
+  - enabled: 1
+    path: Assets/Game/_Scane/CharacterChooser.unity
+    guid: bd4ce2ce816187348bc97e121cc97995
+  - enabled: 1
+    path: Assets/Game/_Scane/Brother.unity
+    guid: 3ffb00f6b3b097243b4fcfc334858eaa
+  - enabled: 0
+    path: Assets/Game/_Scane/MenuOld.unity
+    guid: 9fe0ed206cb61fb4ebf99c38edccb37c
