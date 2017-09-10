@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: a92be6a873630524d9d028c77563aa62
+timeCreated: 1492023881
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CharArmature
+    100002: Chest
+    100004: Fng1Root.L
+    100006: Fng1Root.R
+    100008: Fng1Tip.L
+    100010: Fng1Tip.L_end
+    100012: Fng1Tip.R
+    100014: Fng1Tip.R_end
+    100016: Fng2Root.L
+    100018: Fng2Root.R
+    100020: Fng2Tip.L
+    100022: Fng2Tip.L_end
+    100024: Fng2Tip.R
+    100026: Fng2Tip.R_end
+    100028: Fng3Root.L
+    100030: Fng3Root.R
+    100032: Fng3Tip.L
+    100034: Fng3Tip.L_end
+    100036: Fng3Tip.R
+    100038: Fng3Tip.R_end
+    100040: Foot.L
+    100042: Foot.R
+    100044: FootIK.L
+    100046: FootIK.L_end
+    100048: FootIK.R
+    100050: FootIK.R_end
+    100052: FootPole.L
+    100054: FootPole.L_end
+    100056: FootPole.R
+    100058: FootPole.R_end
+    100060: Hand.L
+    100062: Hand.R
+    100064: Head
+    100066: Head_end
+    100068: LowerArm.L
+    100070: LowerArm.R
+    100072: LowerLeg.L
+    100074: LowerLeg.R
+    100076: Neck
+    100078: Pelvis
+    100080: Root
+    100082: Shoulder.L
+    100084: Shoulder.R
+    100086: Spine
+    100088: Toes.L
+    100090: Toes.L_end
+    100092: Toes.R
+    100094: Toes.R_end
+    100096: TSM_NonSym
+    100098: TSM_Sym
+    100100: UpperArm.L
+    100102: UpperArm.R
+    100104: UpperLeg.L
+    100106: UpperLeg.R
+    100108: //RootNode
+    100110: Weapon
+    100112: Weapon_end
+    400000: CharArmature
+    400002: Chest
+    400004: Fng1Root.L
+    400006: Fng1Root.R
+    400008: Fng1Tip.L
+    400010: Fng1Tip.L_end
+    400012: Fng1Tip.R
+    400014: Fng1Tip.R_end
+    400016: Fng2Root.L
+    400018: Fng2Root.R
+    400020: Fng2Tip.L
+    400022: Fng2Tip.L_end
+    400024: Fng2Tip.R
+    400026: Fng2Tip.R_end
+    400028: Fng3Root.L
+    400030: Fng3Root.R
+    400032: Fng3Tip.L
+    400034: Fng3Tip.L_end
+    400036: Fng3Tip.R
+    400038: Fng3Tip.R_end
+    400040: Foot.L
+    400042: Foot.R
+    400044: FootIK.L
+    400046: FootIK.L_end
+    400048: FootIK.R
+    400050: FootIK.R_end
+    400052: FootPole.L
+    400054: FootPole.L_end
+    400056: FootPole.R
+    400058: FootPole.R_end
+    400060: Hand.L
+    400062: Hand.R
+    400064: Head
+    400066: Head_end
+    400068: LowerArm.L
+    400070: LowerArm.R
+    400072: LowerLeg.L
+    400074: LowerLeg.R
+    400076: Neck
+    400078: Pelvis
+    400080: Root
+    400082: Shoulder.L
+    400084: Shoulder.R
+    400086: Spine
+    400088: Toes.L
+    400090: Toes.L_end
+    400092: Toes.R
+    400094: Toes.R_end
+    400096: TSM_NonSym
+    400098: TSM_Sym
+    400100: UpperArm.L
+    400102: UpperArm.R
+    400104: UpperLeg.L
+    400106: UpperLeg.R
+    400108: //RootNode
+    400110: Weapon
+    400112: Weapon_end
+    4300000: TSM_NonSym
+    4300002: TSM_Sym
+    7400000: Scene
+    9500000: //RootNode
+    13700000: TSM_NonSym
+    13700002: TSM_Sym
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
