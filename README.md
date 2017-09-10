@@ -1,8 +1,10 @@
 Fiona in the Iceland
-======
+
+<img src="images/fiodddna.jpg" width="35%"></img> 
+
 **Fiona in the Iceland** is a 3D adventure game for Android and Windows, developed in Unity game engine.
 
-#### Screenshot
+### Screenshot
 
 <img src="images/Screenshot_20170818-032526.png" width="15%"></img> 
 <img src="images/Screenshot_20170818-032638.png" width="15%"></img> 
