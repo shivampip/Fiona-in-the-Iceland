@@ -31,7 +31,7 @@ Fiona in the Iceland
 
 #### For Windows
 1. Download zip file or clone repo.
-2. Replace this file with this.
+2. Replace [this](https://github.com/shivam301296/Fiona-in-the-Iceland/tree/master/Unexpected/Assets/Game) [_Scane Folder] with [this](https://github.com/shivam301296/Fiona-in-the-Iceland/tree/master/For%20Windows) [_Scane Folder].
 3. Open project in Unity
 4. Go to File>Built Setting>[Select Windows]>Switch player
 6. Done
